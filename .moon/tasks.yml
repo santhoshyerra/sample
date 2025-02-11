@@ -1,0 +1,4 @@
+---
+tasks:
+  test_task:
+    command: echo "Hello, global task!"
