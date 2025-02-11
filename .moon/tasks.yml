@@ -1,7 +1,4 @@
 ---
 tasks:
   test_task:
-    command: echo "Hello, Harish this is sample"
-
-  sample:
-    command: echo "this is santosh"
+    command: echo "Hello, global task"
